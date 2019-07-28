@@ -1,6 +1,5 @@
 
-/** This is a "4 in a row" game program
- * Made for Maman13 Question A
+/** A "4 in a row" game program
  * @author Dean Ratzon
  * @version 18/11/18
  * 
